@@ -5,7 +5,7 @@ I'm a MSc in Computer Science student interested in looking at how people use la
 Currently I'm trying to learn ASL >:) 
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
-📫 Shoot me a message anytime!!
+You can follow me on <a href="https://twitter.com/zixinnic">Twitter</a> (even though I don't post much)!!
 
 <!---
 zxnnic/zxnnic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
